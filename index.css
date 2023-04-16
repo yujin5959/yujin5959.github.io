@@ -19,6 +19,7 @@
   background-color: white;
   margin: 200px;
   padding: 80px;
+  min-width: 1000px;
   border-radius: 10px;
   box-shadow: 4px 4px 4px 4px gray;
 }
