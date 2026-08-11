@@ -43,7 +43,8 @@ export const PORTFOLIO_DATA = {
       "React와 TypeScript 기반의 웹 어플리케이션 구축에 관심이 많으며, 새로운 기술을 배우고 기록하는 것을 즐깁니다.",
     github: "https://github.com/yujin5959",
     blog: "https://yujenius.tistory.com/",
-    linkedin: "https://www.linkedin.com/in/jiyujin/",
+    linkedin:
+      "https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%EC%A7%80-542781384/",
     avatarUrl:
       "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&auto=format&fit=crop&q=80",
   },
