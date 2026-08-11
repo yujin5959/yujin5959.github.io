@@ -1,0 +1,299 @@
+[
+  {
+    "id": "3a512c9e-e905-80cb-add7-d3363d6605f0",
+    "title": "Calio (자연어 기반 AI 일정 관리 비서) ",
+    "coverImage": "",
+    "tags": [
+      "2026"
+    ],
+    "stacks": [
+      "React",
+      "TypeScript"
+    ],
+    "tools": [
+      "AWS",
+      "Git",
+      "Figma"
+    ],
+    "collaboration": [
+      "Notion",
+      "Discord",
+      "Github"
+    ],
+    "where": [
+      "캡스톤 디자인 졸업 프로젝트"
+    ],
+    "date": "2025-09-01",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/Calio-AI-3a512c9ee90580cbadd7d3363d6605f0"
+  },
+  {
+    "id": "3a512c9e-e905-8012-910d-cb2c2ac0fd2c",
+    "title": "Pick & Whip(취향 맞춤 큐레이션과 원스톱 주문을 지원하는 주문 제작 케이크 커스터마이징 예약 서비스)",
+    "coverImage": "",
+    "tags": [
+      "2025"
+    ],
+    "stacks": [
+      "React",
+      "TypeScript"
+    ],
+    "tools": [
+      "Git",
+      "Figma",
+      "Vercel"
+    ],
+    "collaboration": [
+      "Notion",
+      "Discord",
+      "Github"
+    ],
+    "where": [
+      "umc9기데모데이"
+    ],
+    "date": "2025-12-29 ~ 2026-02-22",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/Pick-Whip-3a512c9ee9058012910dcb2c2ac0fd2c"
+  },
+  {
+    "id": "2a112c9e-e905-80d5-b19c-e8b85680170f",
+    "title": "SMP(위치 기반 사용자 채팅 웹/앱 서비스)",
+    "coverImage": "",
+    "tags": [
+      "2025"
+    ],
+    "stacks": [
+      "React",
+      "TypeScript"
+    ],
+    "tools": [
+      "Git",
+      "Figma",
+      "Vercel"
+    ],
+    "collaboration": [
+      "Notion",
+      "Discord",
+      "Github"
+    ],
+    "where": [
+      "umc8기미니프로젝트"
+    ],
+    "date": "2025-03-26 ~ 2025-06-17",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/SMP-2a112c9ee90580d5b19ce8b85680170f"
+  },
+  {
+    "id": "25712c9e-e905-805a-a807-d59b1e5318ab",
+    "title": "Artie(AI 사용자 취향 기반 전시 추천 서비스)",
+    "coverImage": "",
+    "tags": [
+      "2025"
+    ],
+    "stacks": [
+      "React",
+      "TypeScript"
+    ],
+    "tools": [
+      "Git",
+      "Figma",
+      "Vercel"
+    ],
+    "collaboration": [
+      "Notion",
+      "Discord",
+      "Github"
+    ],
+    "where": [
+      "멋쟁이사자처럼 13기 중앙 해커톤"
+    ],
+    "date": "2025-07-21",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/Artie-AI-25712c9ee905805aa807d59b1e5318ab"
+  },
+  {
+    "id": "25712c9e-e905-80d8-8039-d8e705068ac9",
+    "title": "WithTime(AI 데이트코스 추천 서비스)",
+    "coverImage": "",
+    "tags": [
+      "2025"
+    ],
+    "stacks": [
+      "React",
+      "TypeScript",
+      "AWS"
+    ],
+    "tools": [
+      "Git",
+      "Figma",
+      "AWS"
+    ],
+    "collaboration": [
+      "Notion",
+      "Discord",
+      "Github"
+    ],
+    "where": [
+      "umc8기데모데이"
+    ],
+    "date": "2025-06-30 ~ 2025-08-22",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/WithTime-AI-25712c9ee90580d88039d8e705068ac9"
+  },
+  {
+    "id": "20112c9e-e905-800e-9df6-ecc912405511",
+    "title": "MEET (약속 모임 정기 알림 투표 서비스)",
+    "coverImage": "",
+    "tags": [
+      "2024",
+      "2025"
+    ],
+    "stacks": [
+      "React",
+      "TypeScript"
+    ],
+    "tools": [
+      "Git",
+      "Figma",
+      "AWS"
+    ],
+    "collaboration": [
+      "Github",
+      "Notion",
+      "Discord"
+    ],
+    "where": [
+      "현직개발자와 협업 프로젝트 진행"
+    ],
+    "date": "2024-07-07 ~ 2025-02-20",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/MEET-20112c9ee905800e9df6ecc912405511"
+  },
+  {
+    "id": "20112c9e-e905-802b-853f-d209ece43255",
+    "title": "SickretCare (민망했던 질환 쉽고 간편하게 관리 예방하는 커뮤니티 서비스)",
+    "coverImage": "",
+    "tags": [
+      "2024"
+    ],
+    "stacks": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tools": [
+      "Git",
+      "Figma",
+      "AWS"
+    ],
+    "collaboration": [
+      "Github",
+      "Notion",
+      "Discord"
+    ],
+    "where": [
+      "멋쟁이사자처럼 12기 중앙해커톤 출품작",
+      "멋쟁이사자처럼 12기 아기사자"
+    ],
+    "date": "2024-07-15 ~ 2024-08-06",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/SickretCare-20112c9ee905802b853fd209ece43255"
+  },
+  {
+    "id": "20112c9e-e905-8039-a5a1-e132c7ff0819",
+    "title": "별다줄(개발자/디자이너를 위한 프로젝트 기록 및 정리 서비스)🏆",
+    "coverImage": "",
+    "tags": [
+      "2024"
+    ],
+    "stacks": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tools": [
+      "Git",
+      "Figma"
+    ],
+    "collaboration": [
+      "Github",
+      "Notion",
+      "Discord"
+    ],
+    "where": [
+      "12기 교내해커톤 우승작",
+      "멋쟁이사자처럼 12기 아기사자"
+    ],
+    "date": "2024-06-26 ~ 2024-07-12",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/20112c9ee9058039a5a1e132c7ff0819"
+  },
+  {
+    "id": "20112c9e-e905-8010-95ba-ca8135d192db",
+    "title": "소확행(소상공인 과 소비자에게 확실한 행복을 주는 서비스)",
+    "coverImage": "",
+    "tags": [
+      "2023"
+    ],
+    "stacks": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "tools": [
+      "Git",
+      "Figma"
+    ],
+    "collaboration": [
+      "Notion",
+      "Discord",
+      "Github"
+    ],
+    "where": [
+      "멋쟁이사자처럼 11기 교내해커톤",
+      "멋쟁이사자차럼 11기 아기사자"
+    ],
+    "date": "2023-06-26 ~ 2023-07-13",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/20112c9ee905801095baca8135d192db"
+  },
+  {
+    "id": "20112c9e-e905-80dd-b25d-ccf28d74f1bd",
+    "title": "이음 (세대와 세대를 이어주는 단어 사전)",
+    "coverImage": "",
+    "tags": [
+      "2023"
+    ],
+    "stacks": [
+      "HTML",
+      "CSS",
+      "jQuery"
+    ],
+    "tools": [
+      "Git",
+      "Figma"
+    ],
+    "collaboration": [
+      "Github",
+      "Notion",
+      "Discord"
+    ],
+    "where": [
+      "멋쟁이사자처럼 11기 중앙해커톤 출품작",
+      "멋쟁이사자차럼 11기 아기사자"
+    ],
+    "date": "2023-07-17 ~ 2023-08-18",
+    "projectType": "Team",
+    "summary": "",
+    "url": "https://app.notion.com/p/20112c9ee90580ddb25dccf28d74f1bd"
+  }
+]

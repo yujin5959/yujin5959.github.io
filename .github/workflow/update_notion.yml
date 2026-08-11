@@ -1,0 +1,36 @@
+name: Update Notion Projects
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-node-version: "18"
+
+      - name: Install dependencies
+        run: yarn install # 또는 npm install
+
+      - name: Fetch Notion Data
+        env:
+          NOTION_KEY: ${{ secrets.NOTION_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: node scripts/fetch-notion.js
+
+      - name: Build Project
+        run: yarn build # 또는 npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist # 빌드 결과물 폴더 (Vite는 ./dist, Next.js export는 ./out)
