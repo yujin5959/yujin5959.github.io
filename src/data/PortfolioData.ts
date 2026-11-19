@@ -45,8 +45,7 @@ export const PORTFOLIO_DATA = {
     blog: "https://yujenius.tistory.com/",
     linkedin:
       "https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%EC%A7%80-542781384/",
-    avatarUrl:
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&auto=format&fit=crop&q=80",
+    avatarUrl: "../public/images/profile.jpg",
   },
   skillCategories: [
     {
@@ -106,8 +105,8 @@ export const PORTFOLIO_DATA = {
     {
       name: "정보기처리기사",
       issuer: "한국산업인력공단",
-      date: "2026년 예정",
-      status: "예정",
+      date: "2026.09",
+      status: "취득",
     },
     {
       name: "COSS & HNH CLOUD 프로그램 수료",
