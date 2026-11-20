@@ -1,3 +1,5 @@
+import ImageUrl from "../images/profile.jpg";
+
 export interface Project {
   id: number;
   title: string;
@@ -45,7 +47,7 @@ export const PORTFOLIO_DATA = {
     blog: "https://yujenius.tistory.com/",
     linkedin:
       "https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%EC%A7%80-542781384/",
-    avatarUrl: "/images/profile.jpg",
+    avatarUrl: ImageUrl,
   },
   skillCategories: [
     {
